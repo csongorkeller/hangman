@@ -1,4 +1,4 @@
-# hangman
+# hangman game Wordpress plugin
 Hangman plugin for Wordpress
 Features:
 1. Word grouping
